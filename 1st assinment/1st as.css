@@ -22,7 +22,7 @@ section {
 }
 
 .fastdiv button {
-    width: 170px;
+    width: 200px;
     height: 60px;
     background-color: rgba(233, 78, 6, 0.849);
     font-size: 30px;
@@ -51,7 +51,7 @@ section {
 
 #Mission {
     background-color: wheat;
-    margin-left: 100px;
+    margin-left: 150px;
 }
 
 #vission {
@@ -60,7 +60,7 @@ section {
 
 #goal {
     background-color: aquamarine;
-    margin-right: 100px;
+    margin-right: 150px;
 }
 
 .mission p {
@@ -85,17 +85,60 @@ section {
     border-radius: 10px;
 }
 
-.codeing {
-    display: flex;
-}
-
 .codeingpic {
-    width: 30%;
-    margin-top: 100px;
+    width: 100%;
+    height: 90%;
 }
 
-.circle {
-    width: 20%;
-    height: 60%;
-    margin-top: 200px;
+.limited {
+    width: 50%;
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-left: 50px;
+}
+
+.limited h1 {
+    font-size: 50px;
+}
+
+.limited p {
+    font-size: 20px;
+}
+
+.buttonlimed {
+    width: 200px;
+    height: 60px;
+    background-color: rgba(233, 78, 6, 0.849);
+    font-size: 30px;
+    color: azure;
+    border-radius: 10px;
+}
+
+.projectpic {
+    width: 50%;
+    height: 90%;
+    margin-left: 300px;
+}
+
+.projectfont {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+.projectfont h1 {
+    font-size: 50px;
+}
+
+.projectfont p {
+    font-size: 20px;
+}
+
+.buttonproject {
+    width: 200px;
+    height: 60px;
+    background-color: rgba(233, 78, 6, 0.849);
+    font-size: 30px;
+    color: azure;
+    border-radius: 10px;
 }
