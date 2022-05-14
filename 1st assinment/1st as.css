@@ -9,7 +9,7 @@ section {
 .fastdiv {
     width: 50%;
     margin-top: 80px;
-    padding-left: 60px;
+    margin-left: 150px;
 }
 
 .fastdiv h1 {
@@ -141,4 +141,50 @@ section {
     font-size: 30px;
     color: azure;
     border-radius: 10px;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.coronatitle {
+    color: chocolate;
+}
+
+.coronadetails span {
+    color: rgb(255, 184, 4);
+}
+
+.coronadetails {
+    width: 50%;
+    margin-right: 120px;
+    margin-top: 80px;
+}
+
+.coronadetails p {
+    font-size: 20Px;
+}
+
+.coronadetails h1 {
+    text-align: justify;
+}
+
+.button div {
+    text-align: center;
+    margin-left: 700px;
+    color: white;
+}
+
+.button {
+    background-color: rgb(0, 0, 0);
+}
+
+.buttondiv h1 {
+    font-size: 40px;
+    font-family: 'Satisfy', cursive;
+}
+
+.buttondiv p {
+    text-shadow: .5px .5px rgb(247, 244, 244);
 }
